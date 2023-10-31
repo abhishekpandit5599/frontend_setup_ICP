@@ -1,4 +1,4 @@
-# React Native greet_app
+# React JS Setup in ICP Project
 
 Install npm pacakges
 `npm install --save react react-dom`
